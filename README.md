@@ -1,4 +1,4 @@
-# github_sparrow
+# Github Sparrow
 An adventure-based repository to learn UI Tests with Nightwatch on Github.
 
 ### Intro (10mn)
