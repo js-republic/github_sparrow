@@ -34,5 +34,7 @@ An adventure-based repository to learn UI Tests with Nightwatch on Github.
 
 Liens utiles:
 [W3C Webdriver Docs](https://www.w3.org/TR/webdriver/#character-types)
+
 [Nightwatch](http://nightwatchjs.org/)
+
 [Selenium](https://www.w3.org/TR/webdriver/#character-types)
