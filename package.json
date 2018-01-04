@@ -1,0 +1,31 @@
+{
+  "name": "github_sparrow",
+  "version": "1.0.0",
+  "description": "An adventure-based repository to learn UI Tests with Nightwatch on Github.",
+  "main": "nightwatch.conf.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "download-chromedriver": "",
+    "prepare-nightwatch": "npm run download-chromedriver",
+    "nightwatch": "./node_modules/.bin/nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js-republic/github_sparrow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/js-republic/github_sparrow/issues"
+  },
+  "homepage": "https://github.com/js-republic/github_sparrow#readme",
+  "dependencies": {
+    "chromedriver": "^2.34.1",
+    "nightwatch": "^0.9.19",
+    "selenium-server": "^3.8.1"
+  }
+}
