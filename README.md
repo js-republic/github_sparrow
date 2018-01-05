@@ -20,6 +20,11 @@ An adventure-based repository to learn UI Tests with Nightwatch on Github.
 - Nightwatch déjà dans les dépendances npm
 - Première écriture de test (afficher un site qui marche via une commande, ce qui implique que les étapes de préparation précédentes fonctionnent)
 
+### Pré-requis
+- Créer un repository GitHub
+- Initialiser un project (GitHub)
+- Créer 3 colonnes
+
 ### Etapes : (1h10) Site : Github
 - Permettre d’afficher Github en allant sur une URL
 - Permettre au click sur “Sign In” de voir qu’on a changé de page et qu’un formulaire a été affiché
